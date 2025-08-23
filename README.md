@@ -18,13 +18,13 @@ In this tutorial, we cover:
 
 Here are some previews of the project:
 
-![Home Page](screenshots/home.png)  
+![Home Page](Sundown-1.png)  
 *Landing Page with smooth GSAP animations*  
 
-![Animated Section](screenshots/animation.png)  
+![Animated Section](Sundown-3.mp4)  
 *Interactive animated content sections*  
 
-![Project Hosting](screenshots/hosting.png)  
+![Project Hosting](Sundown-2.png)  
 *Live project hosted online for real-time access*  
 
 ---
