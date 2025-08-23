@@ -21,8 +21,8 @@ Here are some previews of the project:
 ![Home Page](Sundown-1.png)  
 *Landing Page with smooth GSAP animations*  
 
-![Animated Section](Sundown-3.mp4)  
-*Interactive animated content sections*  
+🎥 [Watch the Animation Demo](Sundown.mp4)
+ 
 
 ![Project Hosting](Sundown-2.png)  
 *Live project hosted online for real-time access*  
